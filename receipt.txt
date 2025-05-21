@@ -1,0 +1,4 @@
+slanty - 20 Rs
+Subtotal       : 20 Rs
+Sales Tax (15%): 3 Rs
+Total          : 23 Rs

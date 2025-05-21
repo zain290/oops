@@ -1,0 +1,4 @@
+Zain,1234,admin
+zain,123,Admin
+adam,111,Customer
+zaa,111,Customer
